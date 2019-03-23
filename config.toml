@@ -1,3 +1,15 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl = "https://thatfatguy.govorenefekt.com/"
+title = "тоз дебел човек"
+author = "Yordan Radunchev"
+canonifyurls = true
+paginate = 3
+
+theme = "hugo-theme-lean-launch-page"
+
+googleAnalytics = ""
+
+[params]
+tagline = "Бъдещият онлайн дом на един дебел човек."
+mailchimpURL = "https://govorenefect.us19.list-manage.com/subscribe/post?u=3efe8193e120ab07eb3930ddc&amp;id=62ad386207"
+twitter = "https://twitter.com/thatfatguy_bg"
+instagram = "https://instagram.com/thatfatguy_bg"
